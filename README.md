@@ -2,9 +2,9 @@
 <h3 align="center">Tours website for adventurous people.</h3>
 
 <h3 align="left">Screenshots:</h3>
-<img src="https://drive.google.com/uc?id=1hJ1Z1sbUWviIVsr0qmWEYD6mHrpH_lsC" alt="image1" width="800">
-<img src="https://drive.google.com/uc?id=1km8mS6SHvd9VkEFM5T9i6uswdGH-kRu2" alt="image2" width="800">
-<img src="https://drive.google.com/uc?id=1cAnfupVPJqxzsL2I10poREP9GEH9UEp1" alt="image3" width="800">
+<img src="https://drive.google.com/uc?id=1hJ1Z1sbUWviIVsr0qmWEYD6mHrpH_lsC" alt="image1" width="900">
+<img src="https://drive.google.com/uc?id=1km8mS6SHvd9VkEFM5T9i6uswdGH-kRu2" alt="image2" width="900">
+<img src="https://drive.google.com/uc?id=1cAnfupVPJqxzsL2I10poREP9GEH9UEp1" alt="image3" width="900">
 
 <h3 align="left">Languages and Tools:</h3>
 
