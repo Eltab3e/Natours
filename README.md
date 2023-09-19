@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋 This project is called Natours.</h1>
+<h1 align="center">Hi there 👋 This project is called Natours.</h1>
 <h3 align="center">Tours website for adventurous people.</h3>
 
 <h3 align="left">Screenshots:</h3>
